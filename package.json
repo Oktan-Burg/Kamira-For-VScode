@@ -9,6 +9,9 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/Oktan-Burg/Kamira-For-VScode"
+  },
   "contributes": {
     "themes": [
       {
