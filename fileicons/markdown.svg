@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>markdown</title>
+	<defs>
+		<image  width="50" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAgCAMAAABn/9sTAAAAAXNSR0IB2cksfwAAAJxQTFRFAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xCEC3owAAADR0Uk5TAB2s8v+uJ+0cqvGgC9XZDSv19y9lZKOp2jGmYGFw/VNN/Do19J/qJN0WE8oJxbMDAo/wJZv9A7IAAADkSURBVHiczdRpD4IwDAbgV6yCoOB934r3zf//b1IXFJMt6b7RL7QZT9J1SYGSUyZxlCtVoOTKAYfrwbETRDVYdKXCh60gKj5BGkFWBFxR/shE6g2Vh5GYoNnitN2BnKDLaQ82BH2iASxIE4iGw+iTCEmjDoxGPAYxobFqKSA5oQl/pr+/ZsjFTEt4vjzpjMwXP7FcaUn6ip/3/PbSXmdis9U3RhTH/+3v9krsd4a7aKrDkYtTaLq+rjqno79cjRPTVrf7I78hJISeT9IReRSXWK++Fyq2xEHVdo0ngFfz5cB3ErwBmdEbnGcrv3EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+	</style>
+	<path id="Shape 1" class="s0" d="m0 13h46v23h-46z"/>
+	<use id="Background" href="#img1" x="0" y="10"/>
+	<path id="Shape 2" class="s0" d="m221-219h100v100h-100z"/>
+</svg>

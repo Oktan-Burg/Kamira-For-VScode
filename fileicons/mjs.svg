@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<title>markdown</title>
+	<defs>
+		<image  width="47" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAATCAMAAAA3QaRIAAAAAXNSR0IB2cksfwAAAVxQTFRFAAAAAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+xAP+x+RHkJwAAAHR0Uk5TAEXACSmt3PfjuY0gXP8NaP75gwc2/eHr5hSM7TkBzz00gHJEsn43MY63nFG7sQRD5aJ0kqfuGMRja+p4HPqaUpipVIQDzst8G49pGRDwSeRGGjp3yTs8EdBgC39iNSMFDujKS/v07ILYBqYKccj2hhI+Ji3J4y94AAABVklEQVR4nK2SaTvDQBDHV+JMjaRV4qhWQ4uWKIIiddZd6lZHFVX37fs/j9lND8kj1Rfmxf53Zn67mcwsIf9nVRzH8XRTXVNbV98gOP7gGwGgCVWUgJnT1VwJ725BbZVxaWuvhO8A6PSQLo9X8mGw2+9XSI/QGwii09c/EApb+UGAIeqqw3QVASIjrLxRdYypYOE1gPGJ4iUiFG0yr1EzP4UyPaP/4GOzc/OMXFhcigHIZj6+zHIrq2sFnha2jrqBGkXdNPczETIaurVt8Ema3Mknd1H3zDwhjv0DduLQ+F8aOkL3mF6G6rPyaLrLCZAqy5/g9rQ0jgC6iXL8GZZM9TzN3DBmLmz4zCW+siuAa4xkpRtFxUSKHf+dz+Y4L22KgmPFYxDhuFuUOzteMyaXzGAkKBcGev9gxz/maF4zhvr0/EK/9fr2Tmwt7v745Esu/5XW43TzDTBVOE2he76VAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="mJS" href="#img1" x="1" y="15"/>
+</svg>

@@ -1,0 +1,111 @@
+{
+  "file": "unknownFile",
+  "fileExtensions": {
+    "ts": "_typescript",
+    "md": "_markdown",
+    "tsx": "react",
+    "jsx": "react",
+    "js": "_javascript",
+    "css": "css",
+    "png": "_image",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "ico": "_image",
+    "svg": "_image",
+    "gitignore": "Ignore"
+  },
+  "fileNames": {
+    "package.json": "_npmjson",
+    "package-lock.json": "_npmjson",
+    "tsconfig.json": "_typescript",
+    ".gitignore": "Ignore",
+    "*.supabase.*": "supabase"
+  },
+  "folderNames": {
+    "components": "components",
+    "addons": "components",
+    "bin": "database",
+    "storage": "database",
+    "database": "database",
+    "DB": "database",
+    "supabase": "supabase",
+    "Supabase": "supabase",
+    "node_modules": "_npm_instances",
+    ".node_modules": "_npm_instances",
+    "styles": "css",
+    "Styles": "css",
+    "CSS": "css",
+    "css": "css",
+    "app": "appFolder",
+    "application": "appFolder",
+    "App": "appFolder",
+    "Application": "appFolder",
+    "src": "srcFolder",
+    "Pages": "PageFolder",
+    "api": "apiFolder",
+    "API": "apiFolder",
+    "Api": "apiFolder",
+    "auth": "authFolder",
+    "public": "publicFolder",
+    "static": "publicFolder",
+    
+  },
+  "iconDefinitions": {
+    "components": {
+      "iconPath": "./component.png"
+    },
+    "supabase": {
+      "iconPath": "./supabase.svg"
+    },
+    "database": {
+      "iconPath": "./bucket.png"
+    },
+    "unknownFile": {
+      "iconPath": "./unknownFile.png"
+    },
+    "appFolder": {
+      "iconPath": "./appFolderIcon.svg"
+    },
+    "PageFolder": {
+      "iconPath": "./PagesFolderIcon.svg"
+    },
+    "srcFolder": {
+      "iconPath": "./srcFolderIcon.svg"
+    },
+    "_image": {
+      "iconPath": "./image.svg"
+    },
+    "publicFolder": {
+      "iconPath": "./publicFolder.svg"
+    },
+    "Ignore": {
+      "iconPath": "./ignore.svg"
+    },
+    "css": {
+      "iconPath": "./css.svg"
+    },
+    "react": {  
+      "iconPath": "./react.svg"
+    },
+    "_npm_instances": {
+      "fontColor": "#24ff7f7a",
+      "iconPath": "./npmjs.svg"
+    },
+    "_npmjson": {
+      "iconPath": "./npmjson.svg",
+      "fontColor": "#24ff7f7a",
+    },
+    "_markdown": {
+      "iconPath": "./markdown.svg"
+    },
+    "_javascript": {
+      "iconPath": "./javascript.svg"
+    },
+    "_javascript_module": {
+      "iconPath": "./mjs.svg"
+    },
+    "_typescript": {
+      "iconPath": "./typescript.svg",
+    }
+  }
+}
